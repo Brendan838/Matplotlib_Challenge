@@ -6,6 +6,4 @@ This project, **Pymaceuticals**, is an assignment for the U of MN data science b
 ## Project Structure
 
 - **Notebook**: The Jupyter Notebook in `Pymaceuticals` is the primary script used for analysis, featuring data manipulation and table views to gain insights. This file was provided to me via the bootcamp and contained starter code. 
-- **Data Files**: Relevant data files were provided, enabling the analysis and generation of trend observations. Find these in the `Resources` folder. 
-
-# Matplotlib_Challenge
+- **Data Files**: Relevant data files were provided, enabling the analysis and generation of trend observations. Find these in the `Data` folder. 
